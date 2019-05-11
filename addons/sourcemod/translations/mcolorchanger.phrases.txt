@@ -1,0 +1,67 @@
+"Phrases"
+{
+	"MCC_MENU_COLORSELECT"
+	{
+		"en" "Select a color"
+	}
+
+	"MCC_MSG_TAG"
+	{
+		"en" "[{BLUE}MCC{WHITE}]"
+	}
+	
+	"MCC_MSG_COOKIESNOTLOADED"
+	{
+		"en" "Cookies have not loaded yet. Your model color has not been changed."
+	}
+	
+	"MCC_MSG_COLORNOTFOUND"
+	{
+		"en" "That color is not available."
+	}
+	
+	"MCC_MSG_COLORNOACCESS"
+	{
+		"en" "You do not have access to that color."
+	}
+	
+	"MCC_MSG_SETCOLOR"
+	{
+		"#format" "{1:s}"
+		"en" "Your model color was changed to {1}."
+	}
+	
+	"MCC_MSG_NOTCOLORABLE"
+	{
+		"en" "Your current model is not colorable."
+	}
+	
+	"MCC_CMD_TAG"
+	{
+		"en" "[MCC]"
+	}
+	
+	"MCC_CMD_MCCSET_USAGE"
+	{
+		"#format" "{1:s}"
+		"en" "Usage: {1} <color>"
+	}
+	
+	"MCC_CMD_MCCSETOTHER_USAGE"
+	{
+		"#format" "{1:s}"
+		"en" "Usage: {1} <target> <color>"
+	}
+	
+	"MCC_CMD_MCCSETOTHER_ACTIVITY"
+	{
+		"#format" "{1:s},{2:s}"
+		"en" "Set model color of {1} to {2}."
+	}
+	
+	"MCC_CMD_MCCSETOTHER_ACTIVITY_ML"
+	{
+		"#format" "{1:t},{2:s}"
+		"en" "Set model color of {1} to {2}."
+	}
+}

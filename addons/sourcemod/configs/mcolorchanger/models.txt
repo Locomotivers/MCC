@@ -1,0 +1,4 @@
+// Halo
+models/player/mapeadores/morell/masterchief/mc_white.mdl
+// Combined_Elite
+models/player/mapeadores/morell/combine/combine.mdl

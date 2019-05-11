@@ -1,0 +1,204 @@
+"ModelColors"
+{
+	"AliceBlue"
+	{
+		"red" "240"
+		"green" "248"
+		"blue" "255"
+		"alpha" "255"
+		"flag" ""
+	}
+	"Black"
+	{
+		"red" "0"
+		"green" "0"
+		"blue" "0"
+		"alpha" "255"
+		"flag" ""
+	}
+	"Blue"
+	{
+		"red" "0"
+		"green" "0"
+		"blue" "255"
+		"alpha" "192"
+		"flag" ""
+	}
+	"Chocolate"
+	{
+		"red" "210"
+		"green" "105"
+		"blue" "30"
+		"alpha" "255"
+		"flag" ""
+	}
+	"Cyan"
+	{
+		"red" "0"
+		"green" "255"
+		"blue" "255"
+		"alpha" "192"
+		"flag" ""
+	}
+	"GhostWhite"
+	{
+		"red" "248"
+		"green" "248"
+		"blue" "255"
+		"alpha" "255"
+		"flag" ""
+	}
+	"Gold"
+	{
+		"red" "255"
+		"green" "215"
+		"blue" "0"
+		"alpha" "255"
+		"flag" ""
+	}
+	"Green"
+	{
+		"red" "0"
+		"green" "255"
+		"blue" "0"
+		"alpha" "192"
+		"flag" ""
+	}
+	"Indigo"
+	{
+		"red" "75"
+		"green" "0"
+		"blue" "130"
+		"alpha" "255"
+		"flag" ""
+	}
+	"LightBlue"
+	{
+		"red" "0"
+		"green" "128"
+		"blue" "255"
+		"alpha" "192"
+		"flag" ""
+	}
+	"Lime"
+	{
+		"red" "0"
+		"green" "255"
+		"blue" "128"
+		"alpha" "192"
+		"flag" ""
+	}
+	"Olive"
+	{
+		"red" "128"
+		"green" "255"
+		"blue" "0"
+		"alpha" "192"
+		"flag" ""
+
+	}
+	"Orange"
+	{
+		"red" "255"
+		"green" "128"
+		"blue" "0"
+		"alpha" "192"
+		"flag" ""
+	}
+	"Pink"
+	{
+		"red" "255"
+		"green" "0"
+		"blue" "128"
+		"alpha" "192"
+		"flag" ""
+	}
+	"Purple"
+	{
+		"red" "255"
+		"green" "0"
+		"blue" "255"
+		"alpha" "192"
+		"flag" ""
+	}
+	"Red"
+	{
+		"red" "255"
+		"green" "0"
+		"blue" "0"
+		"alpha" "192"
+		"flag" ""
+	}
+	"SaddleBrown"
+	{
+		"red" "139"
+		"green" "69"
+		"blue" "19"
+		"alpha" "255"
+		"flag" ""
+	}
+	"Silver"
+	{
+		"red" "192"
+		"green" "192"
+		"blue" "192"
+		"alpha" "255"
+		"flag" ""
+	}
+	"SteelBlue"
+	{
+		"red" "70"
+		"green" "130"
+		"blue" "180"
+		"alpha" "255"
+		"flag" ""
+	}
+	"Tan"
+	{
+		"red" "210"
+		"green" "180"
+		"blue" "140"
+		"alpha" "255"
+		"flag" ""
+	}
+	"Teal"
+	{
+		"red" "0"
+		"green" "128"
+		"blue" "128"
+		"alpha" "255"
+		"flag" ""
+	}
+	"Thistle"
+	{
+		"red" "216"
+		"green" "191"
+		"blue" "216"
+		"alpha" "255"
+		"flag" ""
+	}
+	"Tomato"
+	{
+		"red" "255"
+		"green" "99"
+		"blue" "71"
+		"alpha" "255"
+		"flag" ""
+	}
+	"Violet"
+	{
+		"red" "128"
+		"green" "0"
+		"blue" "255"
+		"alpha" "192"
+		"flag" ""
+	}
+	"Yellow"
+	{
+		"red" "255"
+		"green" "255"
+		"blue" "0"
+		"alpha" "192"
+		"flag" ""
+	}
+}
